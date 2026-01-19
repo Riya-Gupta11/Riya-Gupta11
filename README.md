@@ -141,10 +141,11 @@
 
 ---
 
-<!-- 🔥 GREEN CROSS AXIS METRICS -->
+<!-- 🔥 GREEN CROSS AXIS METRICS - SIMPLE WORKING -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api?username=Riya-Gupta11&theme=radical" width="100%" alt="GitHub Metrics Cross Chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Gupta11&show_icons=true&theme=radical&card_width=600&hide_border=true&hide=stars,issues&title_color=00ff00&text_color=00ff88&icon_color=00ff00&bg_color=0d11170D" width="100%" alt="GitHub Metrics Dashboard" />
 </p>
+
 
 ---
 
