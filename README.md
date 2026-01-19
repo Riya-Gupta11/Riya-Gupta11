@@ -117,7 +117,7 @@
 
 <div align="center">
   <h3>💬 Always open for collaboration, networking or exciting tech opportunities!</h3>
-  <img src="https://komarev.com/ghpvc/?username=Riya-Gupta11&label=Profile%20views&color=0e75b6&style=flat-square" align="center" />
+
 </div>
 
 **⚡ Fun Fact**: The real world feels like a canvas painted in colors & elements only I can see! 🎨
