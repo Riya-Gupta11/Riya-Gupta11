@@ -129,12 +129,15 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Riya-Gupta11&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Riya-Gupta11&show_icons=true&locale=en&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Riya-Gupta11&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riya-Gupta11&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Riya-Gupta11&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Riya-Gupta11&theme=radical&margin-w=15&margin-h=15&column=6" />
 </p>
 
 ---
