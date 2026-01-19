@@ -118,4 +118,6 @@
 
 </div>
 
+<p align="center">
 **⚡ Fun Fact**: The real world feels like a canvas painted in colors & elements only I can see! 🎨
+</p>
