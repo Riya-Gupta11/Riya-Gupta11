@@ -13,8 +13,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Riya-Gupta11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <br><br>
   <div style="margin-top: 60px;">
-<img align="right" height="300px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
+<img align="right" height="350px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 </div>
 </p>
 
@@ -91,9 +92,11 @@
   <a href="https://www.linkedin.com/in/riya-gupta-19a588329">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="mailto:guptariya1092@gmail.com?subject=Hello%20Riya!">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
+  
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=guptariya1092@gmail.com&su=Hello%20Riya!">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+</a>
+
   <a href="http://bento.me/riya-gupta11-">
     <img src="https://img.shields.io/badge/Portfolio-FFD233?style=for-the-badge&logo=behance&logoColor=black" height="30"/>
   </a>
