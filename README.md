@@ -140,6 +140,12 @@
 </p>
 
 ---
+<!-- 🔥 COORDINATE AXIS METRICS GRAPH - GREEN COLOR -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Riya-Gupta11&theme=radical&layout=bar&langs_count=10&custom_title=Code%20Review%20%26%20Metrics%20Dashboard" width="100%" alt="Code Metrics Dashboard" />
+</p>
+
+---
 
 <div align="center">
   <h3>💬 Always open for collaboration, networking or exciting tech opportunities!</h3>
