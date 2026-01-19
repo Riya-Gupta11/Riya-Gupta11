@@ -92,7 +92,6 @@
   <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" />
 </td>
 
-  </td>
 </tr>
 
 </table>
