@@ -83,12 +83,16 @@
 
   <!-- Row 3 -->
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" width="35" alt="PowerPoint"/></td>
-    <td colspan="5"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Colab"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg" width="40" alt="CodePen"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codesandbox/codesandbox-original.svg" width="40" alt="CodeSandbox"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="40" alt="Microsoft Office"/></td>
+    <td colspan="2"></td>
   </tr>
 </table>
 
 ---
+
 
 
 🥇Regular Hackathon Participant & Tech Meetup Enthusiast
