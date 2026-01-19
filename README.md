@@ -140,9 +140,11 @@
 </p>
 
 ---
-<!-- 🔥 PERFECT WORKING GREEN CROSS METRICS - 100% GUARANTEED -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Gupta11&show_icons=true&theme=radical&layout=compact&card_width=800&hide_border=true" width="100%" alt="GitHub Metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riya-Gupta11&theme=radical" />
+  <!-- YE DAAL DO YAHAN -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Gupta11&show_icons=true&theme=gruvbox&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Riya-Gupta11&theme=radical" />
 </p>
 
 ---
