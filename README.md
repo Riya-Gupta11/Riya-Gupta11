@@ -88,11 +88,16 @@
 
 ## 📫 Connect with me!
 <p align="center">
-  <strong>guptariya1092@gmail.com</strong> | 
-  <a href="https://www.linkedin.com/in/riya-gupta-19a588329">LinkedIn</a> | 
-  <a href="http://bento.me/riya-gupta11-">Portfolio</a>
+  <a href="https://www.linkedin.com/in/riya-gupta-19a588329">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:guptariya1092@gmail.com?subject=Hello%20Riya!">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="http://bento.me/riya-gupta11-">
+    <img src="https://img.shields.io/badge/Portfolio-FFD233?style=for-the-badge&logo=behance&logoColor=black" height="30"/>
+  </a>
 </p>
-
 
 
 ---
