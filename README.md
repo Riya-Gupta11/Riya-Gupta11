@@ -119,6 +119,6 @@
 </div>
 
 <p align="center">
-<strong>**⚡ Fun Fact**: The real world feels like a canvas painted in colors & elements only I can see! 🎨</strong>
+<strong>⚡ Fun Fact: The real world feels like a canvas painted in colors & elements only I can see! 🎨</strong>
 </p>
 
