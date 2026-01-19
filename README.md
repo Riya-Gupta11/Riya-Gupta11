@@ -60,20 +60,31 @@
   <tr>
     <th colspan="12" align="center">Languages & Tools</th>
   </tr>
+
+  <!-- Row 1 -->
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" alt="HTML"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" alt="CSS"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35" alt="Git"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="35" height="35" alt="SQL"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="30" alt="HTML"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="30" alt="CSS"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" alt="Git"/></td>
   </tr>
+
+  <!-- Row 2 -->
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/></td>
-    <td colspan="4"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" alt="MySQL"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" alt="Docker"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35" alt="GitHub"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35" alt="VS Code"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="35" alt="Figma"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="40" alt="Canva"/></td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" width="35" alt="PowerPoint"/></td>
+    <td colspan="5"></td>
   </tr>
 </table>
 
