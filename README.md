@@ -86,7 +86,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect with me!
 <p align="center">
   <a href="https://www.linkedin.com/in/riya-gupta-19a588329">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
