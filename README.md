@@ -102,7 +102,6 @@
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Riya-Gupta11&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Riya-Gupta11&show_icons=true&locale=en&layout=compact&theme=radical" />
