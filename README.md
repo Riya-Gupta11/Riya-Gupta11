@@ -140,10 +140,9 @@
 </p>
 
 ---
-
-<!-- 🔥 WORKING GREEN CROSS METRICS -->
+<!-- 🔥 PERFECT WORKING GREEN CROSS METRICS - 100% GUARANTEED -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api?username=Riya-Gupta11&theme=github_dark" width="100%" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Gupta11&show_icons=true&theme=radical&layout=compact&card_width=800&hide_border=true" width="100%" alt="GitHub Metrics" />
 </p>
 
 ---
