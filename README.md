@@ -1,13 +1,11 @@
-<!-- HARSH GOYAL STYLE - EXACT TOP IMAGE + REPLACE YEHI -->
+![](https://github.com/PremApk/PremApk/blob/main/header_.png)
+<br><br>
+
 <p align="center">
-  <!-- TOP BIG IMAGE (Harsh Goyal style) -->
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="500" height="250"/>
-  <br><br>
-  
-  <!-- Typing SVG same -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=36BCF7&background=FFD22800&center=true&vCenter=true&width=850&lines=Welcome+To+My+Profile!;Engineer+by+passion.+Creator+at+heart.;2nd+Year+B.Tech+CSE+Student;Curiosity+%2B+Code+%3D+My+World!" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=300&color=36BCF7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+RIYA+GUPTA%2C+Welcome+to+My+Profile!;I+am+a+Next+Gen+Developer;Self+learner;Sophomore" alt="Typing SVG" />
+</a>
+  
 </p>
 
 <h1 align="center">👋 Welcome to Riya Gupta's GitHub Universe</h1>
@@ -15,14 +13,14 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Riya-Gupta11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img align="right" height="350px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 </p>
 
 ---
 
 ## 🚀 About Me
 "A jack of all trades is a master of none, but oftentimes better than a master of one."
-
-> **Curiosity shaped my journey** - From school HTML/CSS experiments → College C mastery → Python visual magic → Pixel-perfect websites → AR/VR explorations → **Graphic Design heartbeat** → AI hooked me!
+> **Curiosity shaped my journey** - From school HTML/CSS experiments → C as Love Language → Python visual magic → Pixel-perfect websites → AR/VR explorations → **Graphic Design heartbeat** → AI hooked me!
 
 **My Tech Evolution:**
 - 🎯 **School**: HTML/CSS projects, SQL fascination
@@ -81,8 +79,9 @@
 ---
 
 ## 🏆 Achievements
-🥇 **1st Prize - Ideathon 2025**  
+🥇 1st Prize - Ideathon 2025
 🎯 Regular hackathon participant & tech meetup enthusiast
+
 
 ---
 
@@ -115,7 +114,7 @@
 ---
 
 <div align="center">
-  <h3>💬 Always open for collaboration, networking, or exciting tech opportunities!</h3>
+  <h3>💬 Always open for collaboration, networking or exciting tech opportunities!</h3>
   <img src="https://komarev.com/ghpvc/?username=Riya-Gupta11&label=Profile%20views&color=0e75b6&style=flat-square" align="center" />
 </div>
 
