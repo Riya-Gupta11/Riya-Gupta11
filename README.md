@@ -88,8 +88,10 @@
   <td align="center"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel"/></td>
   <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Colab"/></td>
   <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="40" alt="Microsoft Office"/></td>
-  <td align="center">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codesandbox.png" width="40" alt="CodeSandbox"/>
+<td align="center">
+  <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" />
+</td>
+
   </td>
 </tr>
 
