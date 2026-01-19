@@ -89,6 +89,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Colab"/></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="40" alt="Microsoft Office"/></td>
     <td></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codesandbox/codesandbox-original.svg" width="40" alt="CodeSandbox"/></td>
   </tr>
 </table>
 
