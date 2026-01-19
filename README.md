@@ -80,9 +80,8 @@
 
 ---
 
-## 🏆 Achievements
-🥇 1st Prize - Ideathon 2025
-🎯 Regular hackathon participant & tech meetup enthusiast
+
+🥇Regular Hackathon Participant & Tech Meetup Enthusiast
 
 
 ---
