@@ -56,7 +56,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Things that I use
 <table border-collapse="collapse">
   <tr>
     <th colspan="12" align="center">Languages & Tools</th>
@@ -119,5 +119,6 @@
 </div>
 
 <p align="center">
-**⚡ Fun Fact**: The real world feels like a canvas painted in colors & elements only I can see! 🎨
+<strong>**⚡ Fun Fact**: The real world feels like a canvas painted in colors & elements only I can see! 🎨</strong>
 </p>
+
