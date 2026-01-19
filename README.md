@@ -83,11 +83,12 @@
 
   <!-- Row 3 -->
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Colab"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg" width="40" alt="CodePen"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codesandbox/codesandbox-original.svg" width="40" alt="CodeSandbox"/></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="40" alt="Microsoft Office"/></td>
-    <td colspan="2"></td>
+    <td></td>
   </tr>
 </table>
 
