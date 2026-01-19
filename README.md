@@ -140,14 +140,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riya-Gupta11&theme=radical" />
-  <!-- YE DAAL DO YAHAN -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Gupta11&show_icons=true&theme=gruvbox&layout=compact" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Riya-Gupta11&theme=radical" />
-</p>
 
----
 
 <div align="center">
   <h3>💬 Always open for collaboration, networking or exciting tech opportunities!</h3>
