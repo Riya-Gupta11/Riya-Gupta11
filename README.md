@@ -24,7 +24,7 @@
 
 **My Tech Evolution:**
 - 🎯 **School**: HTML/CSS projects, SQL fascination
-- 🔥 **College**: C (my love language), OOP, Python (Turtle/Pillow/Tkinter)
+- 🔥 **College**: C (my love language), OOPs, Python (Turtle/Pillow/Tkinter)
 - 🌐 **Web**: 2+ pixel-perfect websites (every favicon & modal tested)
 - 🎨 **Design**: Canva graphics → Graphic Designing runs in my veins
 - 💾 **Core**: SQL/DBMS deep dives, Digital Electronics, DSA (language-agnostic)
