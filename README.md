@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+## 😎 About Me
 "A jack of all trades is a master of none, but oftentimes better than a master of one."
 > **Curiosity shaped my journey** - From school HTML/CSS experiments → C as Love Language → Python visual magic → Pixel-perfect websites → AR/VR explorations → **Graphic Design heartbeat** → AI hooked me!
 
