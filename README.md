@@ -138,6 +138,13 @@
 
 ---
 
+<!-- 🔥 ACTIVITY OVERVIEW ADDED HERE -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-Gupta11&theme=react-dark&hide_border=true" width="100%" alt="Riya's GitHub Activity Overview" />
+</p>
+
+---
+
 <div align="center">
   <h3>💬 Always open for collaboration, networking or exciting tech opportunities!</h3>
 
