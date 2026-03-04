@@ -114,7 +114,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
 </a>
 
-  <a href="http://bento.me/riya-gupta11-">
+  <a href="https://riya-gupta-portfolio.carrd.co/">
     <img src="https://img.shields.io/badge/Portfolio-FFD233?style=for-the-badge&logo=behance&logoColor=black" height="30"/>
   </a>
 </p>
