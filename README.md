@@ -51,6 +51,15 @@
       </a>
     </td>
   </tr>
+
+  <!-- THIRD PROJECT -->
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Riya-Gupta11/The-DPI-Engine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Gupta11&repo=The-DPI-Engine&theme=radical" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
